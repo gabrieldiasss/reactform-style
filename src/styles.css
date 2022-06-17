@@ -15,7 +15,7 @@ form {
 }
 
 form h1 {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .field {
@@ -32,6 +32,12 @@ form h1 {
     border-radius: 5px;
 }
 
+.field p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #FD355A;
+}
+
 button {
     margin-top: 1.4rem;
     width: 100%;
@@ -46,3 +52,4 @@ button:hover {
     filter: brightness(0.95);
     transition: 0.1s;
 }
+

@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-h1, label {
+h1, label, p {
     font-family: Raleway;
     font-weight: 600;
 }
@@ -12,7 +12,6 @@ h1, label {
 input {
     border: 0;
     outline: 0;
-    
 }
 
 button {

@@ -20,15 +20,15 @@ function App() {
 
 				<div className='field' >
 					<label>Descrição</label>
-					<input type="email" />
+					<input type="text" />
 				</div>
 
 				<div className='field' >
 					<label>Conteúdo</label>
-					<input type="password" />
+					<input type="text" />
 				</div>
 
-				<button>PUBLICAR</button>
+				<button type='submit'>PUBLICAR</button>
 			</form>
 		</div>
 	);
